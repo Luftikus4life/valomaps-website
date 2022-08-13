@@ -9,9 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <h1 className="title">Die besten Valorant Maps</h1>
 
         <p className="description">
           Get started by editing <code>pages/index.js</code>
@@ -101,8 +99,8 @@ export default function Home() {
           text-decoration: none;
         }
 
-        .title a {
-          color: #0070f3;
+        .title {
+          color: red;
           text-decoration: none;
         }
 
